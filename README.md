@@ -7,6 +7,6 @@ A MongoDB database was used to store data.
 This API supports three endpoints:
 <ul>
   <li>GET /word</li>
-  <li>POST /add-word</li>
+  <li>POST /add-word (Only accesible to the administrator)</li>
   <li>POST /check-word</li>
 </ul>
